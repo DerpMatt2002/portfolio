@@ -14,7 +14,7 @@ and I am eager to transition into these fields
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Digital Logic Design                          | <a href="https://github.com/DerpMatt2002/Matthew-Choi-Portfolio/blob/main/Cadence/18320%20Assignments/Final%20Project%20(2).pdf">8 bit DAC-ADC Final Project</a>|
-| Schematic OP AMP Design                       | <a href="https://github.com/DerpMatt2002/Matthew-Choi-Portfolio/blob/main/Cadence/18623(Analog%20Circuit%20Design)/DP2%20OP%20AMP%20design%20Matthew%20Choi.pdf"></a>|
+| Schematic OP AMP Design                       | <a href="https://github.com/DerpMatt2002/Matthew-Choi-Portfolio/blob/main/Cadence/18623(Analog%20Circuit%20Design)/DP2%20OP%20AMP%20design%20Matthew%20Choi.pdf">OP AMP Design Report</a>|
 | Cadence Layout with DRC, LVS                  | <a href="https://github.com/DerpMatt2002/Matthew-Choi-Portfolio/blob/main/Cadence/18623(Analog%20Circuit%20Design)/DP3%20Comparator%20Design%20matthew%20choi(revised)%20(2).pdf)">Comparator Design Report</a>|
 | Fusion 360 CAD Design                         | <a href="https://docs.google.com/document/d/1DSI0YEZNxuQK5ndFsMRwtNJ34UItcKPIX9-GzJvVfrA/edit?tab=t.0">Combat Robotics Report</a>|
 | NBA ML Model                                  | <a href="https://github.com/DerpMatt2002/Matthew-Choi-Portfolio/tree/main/Python/NBA">NBA Model</a>|
