@@ -3,7 +3,7 @@
 
 Portfolio website for Matthew Choi
 
-I am a recent Electrical and Computer Engineering Graduate Student from the Class of 2025
+I am a 2025 Master of Electrical and Computer Engineering Graduate from Carnegie Mellon University
 
 ## Objective
 My engineering journey has led me to develop a passion for circuit design, robotics, and Machine Learning,
