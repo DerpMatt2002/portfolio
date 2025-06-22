@@ -13,13 +13,13 @@ and I am eager to transition into these fields
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Digital Logic Design                          | <a href="https://google.com">8 bit DAC-ADC Final Project</a>|
-| Schematic OP AMP Design                       | <a href="https://google.com">Operational Amplifier Report</a>|
-| Cadence Layout with DRC, LVS                  | <a href="https://google.com">Comparator Design Report</a>|
-| Fusion 360 CAD Design                         | <a href="https://google.com">Operational Amplifier Report</a>|
-| NBA ML Model                                  | <a href="https://google.com">NBA Model</a>|
-| Wafer Data Analysis ML Model                  | <a href="https://google.com">Data Analysis Model</a>|
+| Digital Logic Design                          | <a href="https://github.com/DerpMatt2002/Matthew-Choi-Portfolio/blob/main/Cadence/18320%20Assignments/Final%20Project%20(2).pdf">8 bit DAC-ADC Final Project</a>|
+| Schematic OP AMP Design                       | <a href="Operational Amplifier Report"></a>|
+| Cadence Layout with DRC, LVS                  | <a href="https://github.com/DerpMatt2002/Matthew-Choi-Portfolio/blob/main/Cadence/18623(Analog%20Circuit%20Design)/DP3%20Comparator%20Design%20matthew%20choi(revised)%20(2).pdf)">Comparator Design Report</a>|
+| Fusion 360 CAD Design                         | <a href="https://github.com/DerpMatt2002/Matthew-Choi-Portfolio/blob/main/Cadence/18623(Analog%20Circuit%20Design)/DP2%20OP%20AMP%20design%20Matthew%20Choi.pdf">Operational Amplifier Report</a>|
+| NBA ML Model                                  | <a href="https://github.com/DerpMatt2002/Matthew-Choi-Portfolio/tree/main/Python/NBA">NBA Model</a>|
+| Wafer Data Analysis ML Model                  | <a href="https://github.com/DerpMatt2002/Matthew-Choi-Portfolio/tree/main/Python/SemiConductor%20Analysis">Data Analysis Model</a>|
 | CNN, KNN, Feature Analysis, Neural Network    | <a href="https://github.com/DerpMatt2002/Matthew-Choi-Portfolio/tree/main/Python/Intro%20to%20ML">Python Intro to ML Assignments</a>|
-|                                               | <a href="https://google.com">Python Intro to ML Assignments</a>|
+| C Cache, Proxy, and Shell                     | <a href="https://github.com/DerpMatt2002/Matthew-Choi-Portfolio/tree/main/C">CIntro to Computer to Systems Assignments</a>|
 
 
